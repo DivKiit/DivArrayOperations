@@ -1,0 +1,22 @@
+Q1. WAP in C to input n integers in an array and display the array like 1st all the odd numbers and then all 
+the even numbers available in the array. Example a[]={1,2,3,4,5,6}, O/P: a[]={1,5,3,4,2,6}
+
+Q2. WAP in C to input n integers in an array and display the array in such a way that the ith indexed value 
+is replaced by the product of all the pervious and next indexed value. Example a[]={1,2,3,4,5}, O/P: 
+a[]={120,60,40,30,24}
+
+Q3. WAP in C to input n integers in an array and display the array in unique elements, like if 
+a[]={6,5,1,2,1,2,3,4,5,6,2}. O/P:={6,5,1,2,3,4}(Delete the duplicate elements)
+
+Q4. WAP in C to input n integers in an array and display the occurrences of all the elements. Example 
+a[]={1, 2,1,6,3,2,6,1,8}, O/P: 1 available 3 times
+ 2 available 2 times
+ 6 available 2 times
+ 3 available 1 times
+ 8 available 1 times
+
+Q5. WAP in C to input two sets of data A and B and find out AUB.
+
+Q6. WAP in C to sort an array using Bubble Sort technique.
+
+Q7. WAP in C to sort an array using Selection Sort technique.
